@@ -1,1 +1,3 @@
-# fc_desafio_docker_go
+# Desafio FullCycle - Docker - GO
+
+docker.io/odfurtado/desafiogo
