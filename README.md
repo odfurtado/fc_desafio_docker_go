@@ -1,3 +1,6 @@
 # Desafio FullCycle - Docker - GO
 
-docker.io/odfurtado/desafiogo
+Link https://hub.docker.com/repository/docker/odfurtado/desafiogo
+
+Executar:
+docker run --rm odfurtado/desafiogo
